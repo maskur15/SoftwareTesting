@@ -14,3 +14,5 @@ url = 'https://www.rokomari.com'
 # Navigate to the specified URL
 driver.get(url)
 print(driver.title)
+#shutdown the browser
+driver.quit()
