@@ -1,0 +1,49 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+.idea/**
+
+# VSCode
+.vscode/
+.vscode/**
+
+# Maven
+target/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Log files
+*.log
+
+# Compiled class files
+*.class
+
+# Java-specific
+*.war
+*.ear
+*.jar
+
+# Package Files #
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
